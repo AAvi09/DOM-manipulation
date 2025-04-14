@@ -19,7 +19,7 @@ body {
   border-radius: 10px;
   height: 400px;
   width: 300px;
-  background-color: #fff;
+  background: linear-gradient(to bottom right, #fff, #f0f0f0);
   padding: 30px;
   text-align: center;
 }
