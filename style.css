@@ -39,7 +39,7 @@ body {
   color: red;
   margin: 20px;
 }
-#card button {
+#card #add {
   background: linear-gradient(to bottom right, blue, pink);
   cursor: pointer;
   color: white;
@@ -49,6 +49,6 @@ body {
   border: none;
   margin: 5px;
 }
-#card #remove {
+/* #card #remove {
   background: linear-gradient(to bottom right, red, yellow);
-}
+} */
